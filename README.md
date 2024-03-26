@@ -7,6 +7,6 @@ The process of developing this application required several steps, including scr
 
 ⚠️ Important information: The job offers contained in the application were obtained from the Indeed, HelloWork, Welcome to the Jungle and LinkedIn sites for a past given day and have not been updated in any way
 
-Application URL : https://datamatchwebapp-51e84547fb4e.herokuapp.com/
+Application demo video : https://drive.google.com/file/d/1koybNEf7KJP4NLx84_X-R_imNbTFcm-r/view?usp=sharing
 
 Presentation video: https://share.vidyard.com/watch/LC3wByrgGMvJmTwRbc5JH5?
